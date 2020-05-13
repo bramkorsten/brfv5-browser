@@ -1,4 +1,5 @@
 {
   "version": "5.1.5",
-  "name": "brfv5-browser"
+  "name": "brfv5-browser",
+  "main": "./js/brfv5/brfv5__init.js"
 }
